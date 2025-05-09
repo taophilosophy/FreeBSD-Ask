@@ -98,7 +98,7 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           sinceTag: ${{ env.PREVIOUS_TAG }}
-          user: FreeBSD-Ask
+          user: taophilosophy
           repo: FreeBSD-Ask
 
       - name: 读取变更日志内容
