@@ -2,6 +2,8 @@
 
 FreeBSD 是真正自由（Liberty）的**操作系统**，在这波谲云诡的世界中仍然坚守 BSD UNIX 哲学——恪守古老的法则，追寻真正的自由。
 
+**此分支由 ykla 维护，包含作者本人文学作品、哲学研究、逸闻轶事、心路历程等，本分支旨在以书代博客，读者若无法接受，请阅读纯粹的社区分支：<https://book.bsdcn.org>**
+
 ## 关于
 
 ### 内容提要
@@ -9,13 +11,6 @@ FreeBSD 是真正自由（Liberty）的**操作系统**，在这波谲云诡的�
 ~~[为了拯救即将归档（Archived）的 FreeBSD······我们决定写一本书。](https://mzh.moegirl.org.cn/为了保护我们心爱的ooo……成为偶像！)~~
 
 本书旨在深入剖析 FreeBSD 操作系统，敉平从陌生人到研究者之间的鸿沟。
-
-### 加入 FreeBSD 中文社区（CFC）
-
-- **首要**联系方式为 **QQ 群**：[787969044](https://qm.qq.com/q/cX5mpJ36gg)（点击加群）
-- 微信群：因微信封闭性，须先加 QQ 群再联系 QQ 群主
-- Discord：<https://discord.gg/j7VhWrhp3e>（需要代理。可通过网页使用，无需安装软件）
-- Telegram 群组：[https://t.me/oh_my_BSD](https://t.me/oh_my_BSD)（需要代理）
 
 ### 历史
 
