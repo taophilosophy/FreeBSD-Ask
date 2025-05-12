@@ -1,4 +1,4 @@
-# 目录
+# Table of contents
 
 * [FreeBSD 从入门到跑路（第三版：草稿）](README.md)
 * [编辑日志](CHANGELOG.md)
@@ -17,6 +17,8 @@
 * [第 1.4 节 为什么要使用 FreeBSD？](di-1-zhang-zou-jin-freebsd/di-1.4-jie-wei-shi-mo-yao-shi-yong-freebsd.md)
 * [第 1.5 节 Linux 用户迁移指南](di-1-zhang-zou-jin-freebsd/di-1.5-jie-linux-yong-hu-qian-yi-zhi-bei.md)
 * [第 1.6 节 FreeBSD 桌面发行版](di-1-zhang-zou-jin-freebsd/1.6-others-bsd.md)
+* [第 1.7 节 BSD 与哲学家 George Berkeley（乔治·贝克莱）](di-1-zhang-zou-jin-freebsd/di-1.7-jie-freebsd-jian-shi.md)
+* [第 1.8 节 加州大学伯克利分校与“Fiat Lux”（要有光）](di-1-zhang-zou-jin-freebsd/di-1.8.md)
 
 ## 第 2 章 安装 FreeBSD
 
@@ -196,8 +198,7 @@
 
 ## 第 19 章 文学故事
 
-* [第 19.1 节 BSD 与哲学家 George Berkeley（乔治·贝克莱）](di-19-zhang-wen-xue-gu-shi/di-19.1-jie-freebsd-jian-shi.md)
-* [第 19.2 节 加州大学伯克利分校与“Fiat Lux”（要有光）](di-19-zhang-wen-xue-gu-shi/di-19.2.md)
+* [第 19.1 节 暂缺](di-19-zhang-wen-xue-gu-shi/di-19.1-jie.md)
 
 ## 第 20 章 游戏与科学
 
