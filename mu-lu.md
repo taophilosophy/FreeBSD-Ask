@@ -1,4 +1,4 @@
-# 目录
+# Table of contents
 
 * [FreeBSD 从入门到跑路（第三版：草稿）](README.md)
 * [编辑日志](CHANGELOG.md)
@@ -120,7 +120,7 @@
 
 ## 第 11 章 哲学研究
 
-* [第 11.1 节 暂缺](di-11-zhang-ji-suan-ji-gai-lun/11.1-sd-card-can-shu-jian-shu.md)
+* [第 11.1 节 暂缺](di-11-zhang-zhe-xue-yan-jiu/11.1-sd-card-can-shu-jian-shu.md)
 
 ## 第 12 章 引导恢复与 TTY 配置
 
