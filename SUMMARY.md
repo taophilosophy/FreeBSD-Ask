@@ -120,7 +120,7 @@
 
 ## 第 11 章 哲学研究
 
-* [第 11.1 节 暂缺](di-11-zhang-ji-suan-ji-gai-lun/11.1-sd-card-can-shu-jian-shu.md)
+* [第 11.1 节 暂缺](di-11-zhang-zhe-xue-yan-jiu/11.1-sd-card-can-shu-jian-shu.md)
 
 ## 第 12 章 引导恢复与 TTY 配置
 
