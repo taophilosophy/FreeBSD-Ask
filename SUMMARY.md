@@ -203,12 +203,12 @@
 
 ## 第 19 章 文学故事
 
-* [第 19.1 节 你与暗](di-19-zhang-wen-xue-gu-shi/19.1-ni-yu-an.md)
+* [第 19.1 节 小说：你与暗](di-19-zhang-wen-xue-gu-shi/19.1-ni-yu-an.md)
 * [第 19.2 节 我与 FreeBSD 的故事](di-19-zhang-wen-xue-gu-shi/19.2-freebsd.md)
 * [第 19.3 节 小说：大教堂与集市](di-19-zhang-wen-xue-gu-shi/di-19.3-jie-xiao-shuo-freebsd-cong-ru-men-dao-pao-lu.md)
 * [第 19.4 节 诗歌选](di-19-zhang-wen-xue-gu-shi/di-19.4-jie-shi-ge-xuan.md)
 * [第 19.5 节 杂记](di-19-zhang-wen-xue-gu-shi/di-19.5-jie-za-ji.md)
-* [第 19.6 节 吾乡何处](di-19-zhang-wen-xue-gu-shi/19.6-wu-xiang-he-chu.md)
+* [第 19.6 节 小说：吾乡何处](di-19-zhang-wen-xue-gu-shi/19.6-wu-xiang-he-chu.md)
 * [第 19.7 节 两次退出](di-19-zhang-wen-xue-gu-shi/19.7-exit.md)
 
 ## 第 20 章 游戏与科学
