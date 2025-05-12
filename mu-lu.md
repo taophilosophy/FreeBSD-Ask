@@ -1,4 +1,4 @@
-# 目录
+# Table of contents
 
 * [FreeBSD 从入门到跑路（第三版：草稿）](README.md)
 * [编辑日志](CHANGELOG.md)
@@ -125,10 +125,9 @@
 * [第 11.1 节 开源与苦难哲学](di-11-zhang-zhe-xue-yan-jiu/di-11.1-jie-linux-yu-ku-nan-zhe-xue.md)
 * [第 11.2 节 Linux 败局与 FreeBSD 败局](di-11-zhang-zhe-xue-yan-jiu/di-11.2-jie-linux-bai-ju-yi-ding-bo-freebsd-da-bai-ju.md)
 * [第 11.3 节 驳《还有人记得 Linux 之前，那个理想又骄傲的 BSD 吗？》](di-11-zhang-zhe-xue-yan-jiu/11.3-linux-da-bai-ju.md)
-* [第 11.4 节 杂记与小说](di-11-zhang-zhe-xue-yan-jiu/11.4.md)
-* [第 11.5 节 Git 大败局](di-11-zhang-zhe-xue-yan-jiu/11.5-git.md)
-* [第 11.6 节 为何不能选择 Linux 桌面操作系统？](di-11-zhang-zhe-xue-yan-jiu/11.6.md)
-* [第 11.7 节  各大 GNU/Linux 发行版缺陷对比](di-11-zhang-zhe-xue-yan-jiu/11.7.md)
+* [第 11.5 节 Git 大败局](di-11-zhang-zhe-xue-yan-jiu/11.4-git.md)
+* [第 11.6 节 为何不能选择 Linux 桌面操作系统？](di-11-zhang-zhe-xue-yan-jiu/11.5.md)
+* [第 11.7 节  各大 GNU/Linux 发行版缺陷对比](di-11-zhang-zhe-xue-yan-jiu/11.6.md)
 
 ## 第 12 章 引导恢复与 TTY 配置
 
@@ -210,6 +209,7 @@
 * [第 19.4 节 诗歌选](di-19-zhang-wen-xue-gu-shi/di-19.4-jie-shi-ge-xuan.md)
 * [第 19.5 节 杂记](di-19-zhang-wen-xue-gu-shi/di-19.5-jie-za-ji.md)
 * [第 19.6 节 吾乡何处](di-19-zhang-wen-xue-gu-shi/19.6-wu-xiang-he-chu.md)
+* [第 19.7 节 两次退出](di-19-zhang-wen-xue-gu-shi/19.7-exit.md)
 
 ## 第 20 章 游戏与科学
 
