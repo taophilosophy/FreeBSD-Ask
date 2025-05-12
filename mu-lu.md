@@ -1,4 +1,4 @@
-# 目录
+# Table of contents
 
 * [FreeBSD 从入门到跑路（第三版：草稿）](README.md)
 * [编辑日志](CHANGELOG.md)
@@ -118,14 +118,9 @@
 * [第 10.1 节 通过 BVCP 以网页管理 BHyve](di-10-zhang-xu-ni-hua/di-10.1.md)
 * [第 10.2 节 使用 bhyve 安装 Windows 11（vm-bhyve）](di-10-zhang-xu-ni-hua/di-10.2-jie-shi-yong-bhyve-an-zhuang-windows-10.md)
 
-## 第 11 章 计算机概论
+## 第 11 章 哲学研究
 
-* [第 11.1 节 存储卡参数简介与测试](di-11-zhang-ji-suan-ji-gai-lun/11.1-sd-card-can-shu-jian-shu.md)
-* [第 11.2 节 总线接口与协议](di-11-zhang-ji-suan-ji-gai-lun/11.2-zong-xian.md)
-* [第 11.3 节 网络基础](di-11-zhang-ji-suan-ji-gai-lun/11.3-wang-luo-ji-chu.md)
-* [第 11.4 节 操作系统](di-11-zhang-ji-suan-ji-gai-lun/11.4-cao-zuo-xi-tong.md)
-* [第 11.5 节 MySQL 数据库](di-11-zhang-ji-suan-ji-gai-lun/11.5-shu-jv-ku.md)
-
+* [第 11.1 节 暂缺](di-11-zhang-ji-suan-ji-gai-lun/11.1-sd-card-can-shu-jian-shu.md)
 
 ## 第 12 章 引导恢复与 TTY 配置
 
