@@ -1,4 +1,4 @@
-# 第 11.2 节 Linux 败局与 FreeBSD 败局
+# 第 2.2 节 Linux 败局与 FreeBSD 败局
 
 
 ## Linux 败局
