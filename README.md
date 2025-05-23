@@ -1,7 +1,5 @@
 # FreeBSD 从入门到跑路（第三版：草稿）
 
-FreeBSD 是真正自由（Liberty）的**操作系统**，在这波谲云诡的世界中仍然坚守 BSD UNIX 哲学——恪守古老的法则，追寻真正的自由。
-
 ## 导出本书的 PDF 文档
 
 可使用 [safreya](https://github.com/safreya) 编写的 [Python 脚本](https://github.com/FreeBSD-Ask/gitbook-pdf-export)来导出 PDF。
