@@ -19,4 +19,4 @@
 * [第 2.3 节 驳《还有人记得 Linux 之前，那个理想又骄傲的 BSD 吗？》](di-2-zhang-zhe-xue-yan-jiu/2.3-linux-da-bai-ju.md)
 * [第 2.4 节 Git 大败局](di-2-zhang-zhe-xue-yan-jiu/2.4-git.md)
 * [第 2.5 节 为何不能选择 Linux 桌面操作系统？](di-2-zhang-zhe-xue-yan-jiu/2.5.md)
-* [第 2.6 节  各大 GNU/Linux 发行版缺陷对比](di-2-zhang-zhe-xue-yan-jiu/2.6.md)
+* [第 2.6 节  各大 GNU/Linux 发行版对比](di-2-zhang-zhe-xue-yan-jiu/2.6.md)
