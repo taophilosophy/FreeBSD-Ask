@@ -8,7 +8,6 @@
 
 ## 捐赠
 
-
 请优先捐赠 FreeBSD 基金会！
 
 若本书对你有帮助，也欢迎给此 [GitHub 项目](https://github.com/FreeBSD-Ask/FreeBSD-Ask)加颗 ⭐。
