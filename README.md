@@ -1,8 +1,8 @@
 # FreeBSD 中文社区
 
-社区官方网站：https://bsdcn.org 
+社区官方网站：<https://bsdcn.org>
 
-社区文档主站：https://book.bsdcn.org 
+社区文档主站：<https://book.bsdcn.org>
 
 ## 联系方式
 
